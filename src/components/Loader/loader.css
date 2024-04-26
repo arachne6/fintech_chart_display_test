@@ -1,0 +1,9 @@
+.full-screen-loader {
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #222734;
+    z-index: 1000;
+}

@@ -1,0 +1,26 @@
+/* Set the website to take full height */
+html, body, #root, .app-holder {
+    height: 100vh;
+    background-color: #222734;
+}
+
+
+/* Center content */
+.page-center-content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+/* Error div */
+.error-div {
+    height: 300px;
+}
+
+
+/* Navbar Styles */
+.navbar-custom {
+    height: 75px;
+    background-color: #262B3C;
+}
